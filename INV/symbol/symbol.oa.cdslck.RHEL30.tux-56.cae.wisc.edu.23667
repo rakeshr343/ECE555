@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nbaid
+HostName                       tux-56.cae.wisc.edu
+ProcessIdentifier              23667
+ProcessCreationTime_UTC        1416269314
+ProcessCreationTime_Readable   Mon Nov 17 18:08:34 2014 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /userspace/n/nbaid/ece555/cadence/ECE555/INV/symbol/symbol.oa.cdslck
+TimeEditLocked                 Mon Nov 17 18:16:11 2014 CST
