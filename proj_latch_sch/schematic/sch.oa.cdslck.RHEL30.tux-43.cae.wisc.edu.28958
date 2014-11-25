@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ramananda
 HostName                       tux-43.cae.wisc.edu
-ProcessIdentifier              26649
-ProcessCreationTime_UTC        1416941679
-ProcessCreationTime_Readable   Tue Nov 25 12:54:39 2014 CST
+ProcessIdentifier              28958
+ProcessCreationTime_UTC        1416942579
+ProcessCreationTime_Readable   Tue Nov 25 13:09:39 2014 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /userspace/r/ramananda/ece555/cadence/ECE555/Adder_16/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Tue Nov 25 12:56:22 2014 CST
+FilePathUsedToEditLock         /userspace/r/ramananda/ece555/cadence/ECE555/proj_latch_sch/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Nov 25 13:16:40 2014 CST
